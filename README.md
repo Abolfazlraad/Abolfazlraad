@@ -4,17 +4,59 @@
 
 - 🌌 WEB DEVELOPER
 - 🌠 BACKEND JUNIOR
-- 🌄 GRAPHIC DESIGNER
-- 🛸 UI/UX DESIGNER
+- 🌄 GRAPHIC DESIGNER & UI/UX DESIGNER
 - 🚀 VIDEO EDITOR
+- 🛸 SOUND ENGINEER
+- 🍔 PRODUCER & COMPRESSOR
 <p>
 ⚡  I’m currently learning Security and network
 </p>
 
 <b>
 <H2>
-  SKILLS
+  🌌 PROGRAMMING SKILLS
+</H2>
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="50" height="50" alt="html">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="" width="50" height="50" alt="css">
+</a>
+<h3>
+  Languages & Framework :
+</h3>
+
+<h3>
+  Security and network :
+</h3>
+
+<h3>
+  DataBase :
+</h3>
+
+<h3>
+  tools :
+</h3>
+
+<b>
+<H2>
+  🌄 GRAPHIC DESIGNER SKILLS
 </H2>
 </b>
 
-  
+<h3>
+  TOOLS :
+</h3>
+
+<b>
+<H2>
+  SOUND ENGINEER & PRODUCER & COMPRESSOR
+</H2>
+</b>
+
+<h3>
+  TOOLS :
+</h3>
+
+
+
