@@ -127,10 +127,10 @@
 </h3>
 
   <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://europe1.discourse-cdn.com/steinberg/optimized/3X/b/8/b8027a19988dbab49aa0413d90a41c84b1fe3ae2_2_500x500.png" width="42" height="40" alt="cubase">
+  <img src="https://europe1.discourse-cdn.com/steinberg/optimized/3X/b/8/b8027a19988dbab49aa0413d90a41c84b1fe3ae2_2_500x500.png" width="40" height="40" alt="cubase">
     
   <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://icons.iconarchive.com/icons/igh0zt/ios7-style-metro-ui/512/MetroUI-Apps-FLStudio-icon.png" width="42" height="40" alt="figma">
+  <img src="https://icons.iconarchive.com/icons/igh0zt/ios7-style-metro-ui/512/MetroUI-Apps-FLStudio-icon.png" width="45" height="45" alt="figma">
 
 
 
